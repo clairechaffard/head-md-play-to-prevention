@@ -40,7 +40,7 @@ Their goal is to **break** this cycle by **overcoming** their anxiety and regain
 
     <img src="image-4.png" alt="twine" width="300">
 
-- I like the idea of having easter egg, like depending  on how observer the gamer is, the choices will be different. 
+- I like the idea of having easter egg, like depending  on how observer the gamer is, the choices will be different. Like a [walking simulator](https://en.wikipedia.org/wiki/Walking_simulator)
 
 - [declick](https://declick.ch/secondaire-i-ii/)
 "La nomophobie désigne la peur irrationnelle, l'angoisse ou le sentiment de panique ressentis à l'idée d'être séparé de son téléphone mobile ou de ne pas pouvoir l'utilise"
