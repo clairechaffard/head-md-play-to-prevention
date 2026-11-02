@@ -8,7 +8,7 @@ Discovering **Nomophobia** means exploring the invisble becoming visible.  **Anx
 
 A world where the simple choices, such as turning off their phone or ignoring hurtful messages, become almost impossible. Peoples find themselves trapped in a **loop** of fear, notifications, and online harassment, unable to escape the presence that follows them everywhere. 
 
-But is there a way out ? Can we face the monsters born from our anxiety andregaining control over their digital lives ? 
+But is there a way out ? Can we face the monsters born from our anxiety and regaining control over their digital lives ? 
 
 
 ## Lists 
