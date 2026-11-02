@@ -17,9 +17,9 @@ But is there a way out ? Can we face the monsters born from our anxiety and rega
 
     1. The psychological dimension: 
       Making emotions that are normally invisible, visible.
-    3. The exploratory dimension: 
+    2. The exploratory dimension: 
       Encouraging people to observe their environment.
-    4. The narrative dimension: 
+    3. The narrative dimension: 
       Choices influence the story and the ending 
 
 
